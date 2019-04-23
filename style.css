@@ -1,3 +1,15 @@
 a{
-    color:blue;
+    color:black;
+    font-size: 20px;
+
+}
+h1{
+    text-align:center;
+    font-weight: bold;
+    font-size:50px;
+    margin-top:10px;
+    text-decoration: underline;
+}
+p{
+    font-size:19px;
 }
